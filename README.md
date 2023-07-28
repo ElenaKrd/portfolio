@@ -100,6 +100,7 @@ It is necessary to analyze the market of public catering enterprises of the city
 -	math
 -	plotly. graph_objects
 -	plotly.express
+  
 **some used libraries visualize data interactively. Graphs will not be displayed interactively on Github. Therefore, the codes for displaying interactive graphs are commented out. This is done to speed up the loading of the project. The display of graphs can be seen in the presentation for investors**
 
 [presentation for investors here]( https://disk.yandex.ru/i/PwMzJd7WhJZ7xg)
