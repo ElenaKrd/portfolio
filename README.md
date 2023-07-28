@@ -3,7 +3,7 @@ The portfolio contains projects completed at Yandex Practicum. Specialty: "Data 
 
 
 1.	## **Project_1**
-## [Research of ads for the sale of apartments] (https://github.com/ElenaKrd/portfolio/tree/main/project_1)   
+[Research of ads for the sale of apartments] (https://github.com/ElenaKrd/portfolio/tree/main/project_1)   
  ### Project description.
 The project is a study of the archive of ads for several years about the sale of apartments in St. Petersburg and neighboring settlements in order to learn how to determine the market value of real estate and set parameters that will allow you to build an automated system for tracking anomalies and fraudulent activity.                                                               
 ### Skills and tools.
@@ -97,8 +97,9 @@ It is necessary to analyze the market of public catering enterprises of the city
 -	math
 -	plotly. graph_objects
 -	plotly.express
-**некоторые использованные библиотеки визуализируют данные в интерактивном режиме. На GitHab графики интерактивно отображаться не будут. Поэтому коды для вывода интерактивных графиков закомментированы. Это сделано для ускорения загрузки проекта. Отображение графиков можно увидеть в презентации для инвыесторов**
-[Презентация для инвесторов здесь]( https://disk.yandex.ru/i/PwMzJd7WhJZ7xg)
+**some used libraries visualize data interactively. Graphs will not be displayed interactively on Github. Therefore, the codes for displaying interactive graphs are commented out. This is done to speed up the loading of the project. The display of graphs can be seen in the presentation for investors**
+
+[presentation for investors here]( https://disk.yandex.ru/i/PwMzJd7WhJZ7xg)
 -	-  json
 -	- folium .Map, Choropleth
 -	-  folium. Marker, Map
