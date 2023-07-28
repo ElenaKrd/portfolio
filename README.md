@@ -3,7 +3,7 @@ The portfolio contains projects completed at Yandex Practicum. Specialty: "Data 
 
 
 1.	## **Project_1**
-[Research of ads for the sale of apartments] (https://github.com/ElenaKrd/portfolio/tree/main/project_1)   
+[Research of ads for the sale of apartments](https://github.com/ElenaKrd/portfolio/tree/main/project_1)   
  ### Project description.
 The project is a study of the archive of ads for several years about the sale of apartments in St. Petersburg and neighboring settlements in order to learn how to determine the market value of real estate and set parameters that will allow you to build an automated system for tracking anomalies and fraudulent activity.                                                               
 ### Skills and tools.
